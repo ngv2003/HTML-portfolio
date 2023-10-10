@@ -1,2 +1,2 @@
-# My-Resume
+# html-portfolio
 Basic html website 
